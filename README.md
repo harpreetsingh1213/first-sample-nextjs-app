@@ -1,4 +1,4 @@
-First Sample NextJs App
+# First Sample NextJs App
 
 First NextJS Sample Application takes input as name and show data in another page
 
